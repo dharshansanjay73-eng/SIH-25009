@@ -42,6 +42,7 @@ The "Action-Reward" Loop: Students engage in interactive 3D simulations (e.g., m
 Social & Competitive Features: Integrated school-wise and district-wise leaderboards foster a sense of pride and healthy competition. Digital "Green Certificates" are issued upon milestone completion, which can be integrated into the student’s academic record.
 
 Technical Approach
+<img src="https://github.com/dharshansanjay73-eng/SIH-25009/blob/main/Blog-what-is-gamified-learning-4-1.webp">
 Technologies Used
 Frontend: React.js (Web) and Flutter (Mobile) for a seamless, high-performance UI across all devices.
 
