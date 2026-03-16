@@ -50,7 +50,7 @@ Backend: Node.js with Express for a scalable, event-driven architecture.
 Database: PostgreSQL for structured user data and Cloudinary for storing media proof of environmental tasks.
 
 Core Feature: Geofencing & Timestamping to ensure that real-world tasks are performed at the correct time and location, preventing "cheating" in the gamified system.
-<img src=""
+<img src="C:\Users\acer\OneDrive\Desktop\Blog-what-is-gamified-learning-4-1.webp">
 
 Implementation Process
 Module Mapping: Aligning the game levels with the Punjab School Education Board (PSEB) and University curricula.
